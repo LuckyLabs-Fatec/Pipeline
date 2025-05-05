@@ -1,2 +1,2 @@
-# Programando_o_Futuro
+# Pipeline
 Projeto FATEC 2025 válido como Projeto Integrador (TCC)
